@@ -1,0 +1,7 @@
+Implement a binary tree with following functions
+Create a new Node
+Insert data into the binary tree
+Search
+Delete a Node
+Find the minimum
+Name the .c file as binary_tree_<index number>.c
